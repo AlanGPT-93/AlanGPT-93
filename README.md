@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on making backend projects.
 - 📫 How to reach me:
     - Email: argarcia1693@gmail.com
-    - LinkedIn: https://www.linkedin.com/in/alan-garc%C3%ADa-p1693/ 
+    - LinkedIn: https://www.linkedin.com/in/alan-garcia-p1693/ 
 
 <!---
 AlanGPT-93/AlanGPT-93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
